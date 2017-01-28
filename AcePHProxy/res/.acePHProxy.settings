@@ -6,7 +6,7 @@
 	"listen_ip": "0.0.0.0",
 	"listen_port": "8001",
 	"stream_keepalive_sec": "5",
-	"ui": ["websocket"],
+	"ui": ["text", "websocket"],
 
 	"ttv":
 	{
